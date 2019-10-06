@@ -1,9 +1,12 @@
 ## Survivor Isle: the Escape - an iOS 3D survival adventure game
-<img src="screenshot_1.png" alt="Screenshot1" width="400"/>
-<img src="screenshot_2.png" alt="Screenshot2" width="400"/>  
-<img src="screenshot_3.png" alt="Screenshot3" width="400"/>
-<img src="screenshot_4.png" alt="Screenshot4" width="400"/>  
-
+<p float="left">
+<img src="screenshot_1.png" alt="Screenshot2" width="400"/>
+<img src="screenshot_3.png" alt="Screenshot1" width="400"/>
+</p>
+<p float="left">
+<img src="screenshot_4.png" alt="Screenshot3" width="400"/>
+<img src="screenshot_2.png" alt="Screenshot4" width="400"/>  
+</p>
 ### Info
 *Survivor Isle: the Escape* is an iOS 5.1.1+ App store game for iPhone, iPod and iPad.  
 Requirements:
