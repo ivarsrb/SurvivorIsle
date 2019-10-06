@@ -27,11 +27,14 @@ Features:
 - Immersion through eye-catching sunsets, starry night skies with a fool moon, dolphins in the distance and sound of a waves crushing in the ocean breeze.  
 ### Achievements
 March 29, 2015 - Reached #54 in iPad paid Action Game category in the United States App Store!
-<img src="ach_states.png" alt="rank_states" width="300"/>
+<img src="ach_states.png" alt="rank_states" width="300"/>  
+
 March 25, 2015 - Reached #1 in paid Action Game category in the Philippines App Store!
-<img src="ach_philippines.png" alt="rank_philippines" width="300"/>
+<img src="ach_philippines.png" alt="rank_philippines" width="300"/>  
+
 November 16, 2015 - Ranked 3rd among bestsellers in "Great Games for ₹10" in India!
-<img src="ach_india.png" alt="rank_india" width="300"/>
+<img src="ach_india.png" alt="rank_india" width="300"/>  
+
 ### Technologies
 Developed using Objective-C programming, OpenGL ES 2.0 graphics API and OpenAL sound library.
 ### Author
