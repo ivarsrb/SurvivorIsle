@@ -15,7 +15,7 @@ Requirements:
 - iPad or newer  
 
 [Youtube video](https://www.youtube.com/watch?v=fLNV-mex-d4)  
-[Website](https://sites.google.com/site/thebreakgames/home/survivor-isle)  
+[Website](https://www.facebook.com/SurvivorEscape/)  
 ### Gameplay description
 Take the role of a shipwreck survivor stranded on a desert island in the middle of nowhere! Use your ingenuity to survive 7 days by eating and drinking what you can find, collect or catch while building a raft to escape!  
 Alone and equipped only with a knife you must explore the island for food, water and collect everything that you could use to make tools to help you to survive, such as spear to spear fish, rainwater collecting tool from a conch shell and a large leaf, figure-4 deadfall traps to catch island rats, kindling to start a fire to cook food, and more. At the same time building a raft – your only hope to leave this island and survive - from the parts of your wrecked ship that are washed up daily on the shore. Be creative and ingenuitive to survive this ordeal!  
@@ -25,6 +25,13 @@ Features:
 - Multiple items to collect and use as necessary or combine together to make new tools.
 - Two levels of difficulty.
 - Immersion through eye-catching sunsets, starry night skies with a fool moon, dolphins in the distance and sound of a waves crushing in the ocean breeze.  
+### Achievements
+March 29, 2015 - Reached #54 in iPad paid Action Game category in the United States App Store!
+<img src="ach_states.png" alt="rank_states" width="300"/>
+March 25, 2015 - Reached #1 in paid Action Game category in the Philippines App Store!
+<img src="ach_philippines.png" alt="rank_philippines" width="300"/>
+November 16, 2015 - Ranked 3rd among bestsellers in "Great Games for ₹10" in India!
+<img src="ach_india.png" alt="rank_india" width="300"/>
 ### Technologies
 Developed using Objective-C programming, OpenGL ES 2.0 graphics API and OpenAL sound library.
 ### Author
