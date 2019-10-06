@@ -6,7 +6,8 @@
 <p float="left">
 <img src="screenshot_4.png" alt="Screenshot3" width="400"/>
 <img src="screenshot_2.png" alt="Screenshot4" width="400"/>  
-</p>
+</p>  
+
 ### Info
 *Survivor Isle: the Escape* is an iOS 5.1.1+ App store game for iPhone, iPod and iPad.  
 Requirements:
@@ -25,7 +26,7 @@ Features:
 - Two levels of difficulty.
 - Immersion through eye-catching sunsets, starry night skies with a fool moon, dolphins in the distance and sound of a waves crushing in the ocean breeze.  
 ### Technologies
-Developed using Objective-C programming, OpenGL ES 2.0 graphics API and OpenAI sound library.
+Developed using Objective-C programming, OpenGL ES 2.0 graphics API and OpenAL sound library.
 ### Author
 Designed and developed by [Ivars Rb.](https://github.com/ivarsrb)  
 Copyright © 2015 Ivars Rb.
