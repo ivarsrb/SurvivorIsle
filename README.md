@@ -38,5 +38,5 @@ November 16, 2015 - Ranked 3rd among bestsellers in "Great Games for ₹10" in I
 ### Technologies
 Developed using Objective-C programming, OpenGL ES 2.0 graphics API and OpenAL sound library.
 ### Author
-Designed and developed by [Ivars Rb.](https://github.com/ivarsrb)  
-Copyright © 2015 Ivars Rb.
+Designed and developed by [Ivars Rusbergs](https://github.com/ivarsrb)  
+Copyright © 2015 Ivars Rusbergs
